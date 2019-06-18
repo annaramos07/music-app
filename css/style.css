@@ -1,16 +1,7 @@
 h1,h2,h3,h4,h5,h6{
 	margin:0;
 }
-
-p{
-	color: #fff;
-}
-
-.bg-romeo{
-	padding:5px;
 	
-}
-
 .list h5{
 	margin: 0;
 }
@@ -19,9 +10,6 @@ p{
 	max-width: 100%;
 	display: block;
 }
-.coffee .card-header{
-	padding:0;
-}
 .card.menu{
 	background-size: cover;
 	background-position: center;
@@ -29,12 +17,7 @@ p{
 	color: #ffffff;
 	text-align: center;
 	}
-.pulseras{
-	background-image: url("../img/asdasda.jpg");
-	height: 230px;
-}
-
-.fotop{
+.pp{
 	width: 40px;
 }
 
@@ -42,16 +25,15 @@ p{
 	width: 4px;
 }
 
-.rola1{
-	width: 70px;
-}
-
 .item-title{
 	color: black;
+	font-size: 14px;
+	color: purple;
 }
 
 .item-subtitle{
 	color:black;
+	font-size: 12px;
 }
 
 .card-content{
@@ -66,71 +48,6 @@ p{
 	margin: 0;
 	font-size: 20px;
 }
-.pulseras p{
-	
-	margin: 0;
-	font-size: 12px;
-}
-.pulseras a{
-	color:#ffffff;
-}
-.pulseras .card-content{
-	padding: 10px;
-	text-align: center;
-	
-}
-.pulseras h3{
-	font-size: 16px;
-	color: #2D2D2D;
-	margin-bottom: 0;
-}
-.pulseras h4{
-	font-size: 80px;
-	color: #FFFFFF;
-	text-align: center;
-	}
-.pulseras p{
-	font-size: 25px;
-	color: #FFFFFF;
-	font-weight: 600;
-	
-}
-.product{
-	color:#2d2d2d;
-	font-size: 16px;
-	font-weight: 600;
-}
-.price{
-	color:#0C9F67;
-	font-size: 16px;
-	font-weight: 600;
-}
-.button-green{
-	background-color:#0C9F67 !important;
-}
-
-.choco-frappe{
-	padding: 40px 0;
-	
-}
-
-.precio {
-	color: #132D01;
-	font-size: 10px;
-}
-
-.descripcion {
-	font-size: 14px;
-}
-.logo{
-	width: 90px;
-}
-
-
-.accesorios{
-	font-size: 20px;
-}
-
 .contentQS1 i{
 	float: left;
 }
@@ -147,25 +64,14 @@ p{
 	background-color: #fff;
 	color: #FFFFFF;
 }
-
-
-.mapa{
-	width: 380px;
+.titles{
+	text-align: center;
+	padding-top: 10px;
 }
-
-.contact1{
-	float: left;
-}f
-
-.contact2{
-	float: left;
+.tt{
+	text-align: center;
+	padding-top: 10px;
 }
-
-.contact3{
-	float: left;
+.material-icons{
+	color: purple;
 }
-
-
-
-
-
